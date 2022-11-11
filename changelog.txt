@@ -1,3 +1,8 @@
+Changelog V 1.0.4.10
+- Ported for 1.16.6 Wesnoth Addons Server
+- Added Maintenance transfered to Wesnoth Modders Guild.
+
+
 Changelog V. 1.0.4
 - Scenarios:
 - Wanderlust: side 1 now has 'fog'; Abhai may join Maat earlier, if he's found while she's fighting the first Asuri wave; Bel-Galas now joins Maat's side rather than remain enemy
