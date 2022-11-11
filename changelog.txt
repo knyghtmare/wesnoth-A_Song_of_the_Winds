@@ -1,6 +1,10 @@
+Changelog V 1.0.4.11
+- Fixed a loading crash
+
 Changelog V 1.0.4.10
 - Ported for 1.16.6 Wesnoth Addons Server
 - Added Maintenance transfered to Wesnoth Modders Guild.
+- Code is still hilariously outdated. Might take months to patch.
 
 
 Changelog V. 1.0.4
