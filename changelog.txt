@@ -1,3 +1,6 @@
+Changelog V 1.0.4.21
+- Added missing images for Prophet
+
 Changelog V 1.0.4.20
 --> AMLA for hero units now have blue bars
 
