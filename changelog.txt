@@ -9,7 +9,16 @@ Changelog V 1.0.4.19
 
 Changelog V 1.0.4.18
 - Bug fixes
-- updates from revansurik
+- Deprecation fixes
+- Updates from revansurik
+- Remove duplicate images with WoL and add missing ones
+- Clear uncleared variables
+- Scenarios: 
+   - Fixed investigation messages being triggerable before beginning the investigations.
+   - Fixed ruin investigation event in scenario 25.
+   - Fixed Librarians not triggering events in scenario 27.
+   - Fixed Runeforgers not being able to pick up item in Scenario 27.
+   - Fixed Scenario 39 breaking if you kill Kaliyuga.
 
 Changelog V 1.0.4.12
 - S10: fixed a game breaking bug
